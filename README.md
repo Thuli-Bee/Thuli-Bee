@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @Thuli-Bee
-- 👀 I’m interested in Software Development 
-- 🌱 I’m currently learning Javascript and Python
-- 💞️ I’m looking to expand my skills on the above mentioned languages
+- 👋 Hi, I’m Thuli Bungane and i a fresh garduate in (Web Application) Software Development. I currently living in Johannesburg💎
+- I have a Diploma in Infromation Technology from one of the certified institutions in South Africa and a cerificate in Microsoft Azure. I am both driven and self-motivated and i am constantly experimenting with new technologies and other programming languages. I am very passionate about web development and srive to better myself as a developer.
 - 📫 How to reach me thuliyolanda45@gmail.com 
 
 <!---
